@@ -3,5 +3,5 @@
 
 :80 {
 root * /usr/share/caddy
-tile_server
+file_server
 }
